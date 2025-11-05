@@ -1,0 +1,10 @@
+# Gizli ortam değişkenleri
+.env
+
+# Postgres verileri
+data/
+
+# IDE ve sistem dosyaları
+*.log
+*.tmp
+.DS_Store
